@@ -6,6 +6,10 @@ Includes Checkov as vulnerabilites scanning tool.
 
 Compatible with most used CI/CD tools such as GitHub Actions or BitBucket Pipelines.
 
+### ¿Why Terrazure?
+
+This image allows to login to Azure using a standard account, instead of using a service principal or enterprise application, which is the main limitation of the standard Terraform Docker image.
+
 ### Docker Hub
 
 This image is already built and ready to use here:
